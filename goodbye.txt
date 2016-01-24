@@ -1,2 +1,2 @@
 print("Bye")
-print("venner")
+print("Friends")
